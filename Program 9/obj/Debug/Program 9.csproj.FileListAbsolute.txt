@@ -1,0 +1,7 @@
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\bin\Debug\Program 9.exe.config
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\bin\Debug\Program 9.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\bin\Debug\Program 9.pdb
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\obj\Debug\Program 9.csprojAssemblyReference.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\obj\Debug\Program 9.csproj.CoreCompileInputs.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\obj\Debug\Program 9.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 9\obj\Debug\Program 9.pdb
