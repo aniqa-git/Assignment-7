@@ -1,0 +1,7 @@
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\bin\Debug\Program 8.exe.config
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\bin\Debug\Program 8.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\bin\Debug\Program 8.pdb
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\obj\Debug\Program 8.csprojAssemblyReference.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\obj\Debug\Program 8.csproj.CoreCompileInputs.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\obj\Debug\Program 8.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 8\obj\Debug\Program 8.pdb
