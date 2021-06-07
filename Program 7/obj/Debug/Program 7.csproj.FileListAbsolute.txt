@@ -1,0 +1,7 @@
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\bin\Debug\Program 7.exe.config
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\bin\Debug\Program 7.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\bin\Debug\Program 7.pdb
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\obj\Debug\Program 7.csprojAssemblyReference.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\obj\Debug\Program 7.csproj.CoreCompileInputs.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\obj\Debug\Program 7.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 7\obj\Debug\Program 7.pdb
