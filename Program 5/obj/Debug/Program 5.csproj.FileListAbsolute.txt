@@ -1,0 +1,7 @@
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\bin\Debug\Program 5.exe.config
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\bin\Debug\Program 5.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\bin\Debug\Program 5.pdb
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\obj\Debug\Program 5.csprojAssemblyReference.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\obj\Debug\Program 5.csproj.CoreCompileInputs.cache
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\obj\Debug\Program 5.exe
+C:\Users\ANIQA FAYYAZ\Documents\Program 5\obj\Debug\Program 5.pdb
